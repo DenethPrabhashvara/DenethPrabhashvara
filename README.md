@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenethEkanayake
+- 👋 Hi, I’m @DenethPrabhashvara
 - 👀 I’m interested in CyberSec/Computer Hacking👩🏻‍💻 !
 - 🌱 Learning!
 - 🚀📈 Check My Stats Here - https://tryhackme.com/p/DenethEkanayake
